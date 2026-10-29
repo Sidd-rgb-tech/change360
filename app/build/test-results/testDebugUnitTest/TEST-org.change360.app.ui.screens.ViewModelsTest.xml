@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.change360.app.ui.screens.ViewModelsTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2026-10-29T16:47:36" hostname="RKSLAPTOP" time="0.636">
+  <properties/>
+  <testcase name="authViewModel_handlesSignUpValidationFailure" classname="org.change360.app.ui.screens.ViewModelsTest" time="0.413"/>
+  <testcase name="authViewModel_handlesGuestAuthentication" classname="org.change360.app.ui.screens.ViewModelsTest" time="0.012"/>
+  <testcase name="homeViewModel_exposesOverviewAndHandlesQuestSteps" classname="org.change360.app.ui.screens.ViewModelsTest" time="0.076"/>
+  <testcase name="impactViewModel_managesTimeRangeAndAggregatesMetrics" classname="org.change360.app.ui.screens.ViewModelsTest" time="0.055"/>
+  <testcase name="challengesViewModel_managesCategoryFiltersAndCompletion" classname="org.change360.app.ui.screens.ViewModelsTest" time="0.018"/>
+  <testcase name="viewModelFactory_resolvesAllSixViewModels" classname="org.change360.app.ui.screens.ViewModelsTest" time="0.017"/>
+  <testcase name="authViewModel_managesModeAndFormChanges" classname="org.change360.app.ui.screens.ViewModelsTest" time="0.001"/>
+  <testcase name="posterViewModel_managesStyleCustomizationAndExportPipeline" classname="org.change360.app.ui.screens.ViewModelsTest" time="0.024"/>
+  <testcase name="aiAssistantViewModel_managesPromptInputAndQuickChipDispatch" classname="org.change360.app.ui.screens.ViewModelsTest" time="0.016"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

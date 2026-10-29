@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.change360.app.di.DependencyInjectionTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2026-10-29T16:47:37" hostname="RKSLAPTOP" time="0.058">
+  <properties/>
+  <testcase name="viewModelFactory_instantiatesViewModelWithAppContainerDirectly" classname="org.change360.app.di.DependencyInjectionTest" time="0.016"/>
+  <testcase name="viewModelFactory_instantiatesViewModelWithUseCaseDependency" classname="org.change360.app.di.DependencyInjectionTest" time="0.001"/>
+  <testcase name="viewModelFactory_usesExplicitCreator_takingPrecedenceOverReflection" classname="org.change360.app.di.DependencyInjectionTest" time="0.002"/>
+  <testcase name="viewModelFactory_instantiatesNoArgViewModel" classname="org.change360.app.di.DependencyInjectionTest" time="0.001"/>
+  <testcase name="viewModelFactoryBuilder_registersCustomCreatorsCorrectly" classname="org.change360.app.di.DependencyInjectionTest" time="0.003"/>
+  <testcase name="provideViewModelFactory_createsDedicatedFactoryForSingleViewModel" classname="org.change360.app.di.DependencyInjectionTest" time="0.017"/>
+  <testcase name="appContainerExtension_createViewModelFactory_buildsWorkingFactory" classname="org.change360.app.di.DependencyInjectionTest" time="0.002"/>
+  <testcase name="viewModelFactory_throwsException_whenDependenciesCannotBeSatisfied" classname="org.change360.app.di.DependencyInjectionTest" time="0.009"/>
+  <testcase name="viewModelFactory_instantiatesViewModelWithMultipleDependencies" classname="org.change360.app.di.DependencyInjectionTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

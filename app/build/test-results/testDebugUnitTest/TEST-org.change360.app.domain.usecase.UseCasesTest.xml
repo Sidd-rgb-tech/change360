@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.change360.app.domain.usecase.UseCasesTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2026-10-29T16:47:37" hostname="RKSLAPTOP" time="0.106">
+  <properties/>
+  <testcase name="calculateImpactStatsUseCase_computesEquivalentsAndCategories" classname="org.change360.app.domain.usecase.UseCasesTest" time="0.008"/>
+  <testcase name="authenticateUserUseCase_signUp_createsUser" classname="org.change360.app.domain.usecase.UseCasesTest" time="0.012"/>
+  <testcase name="getDashboardOverviewUseCase_aggregatesDashboardMetrics" classname="org.change360.app.domain.usecase.UseCasesTest" time="0.023"/>
+  <testcase name="observeAuthStateUseCase_emitsAuthenticated_whenSessionIsValid" classname="org.change360.app.domain.usecase.UseCasesTest" time="0.034"/>
+  <testcase name="authenticateUserUseCase_signIn_validatesInput" classname="org.change360.app.domain.usecase.UseCasesTest" time="0.003"/>
+  <testcase name="completeChallengeUseCase_advancesStepAndAwardsXp" classname="org.change360.app.domain.usecase.UseCasesTest" time="0.004"/>
+  <testcase name="sendAiMessageUseCase_validatesAndProcessesPrompt" classname="org.change360.app.domain.usecase.UseCasesTest" time="0.006"/>
+  <testcase name="saveGeneratedPosterUseCase_validatesAndSavesPoster" classname="org.change360.app.domain.usecase.UseCasesTest" time="0.005"/>
+  <testcase name="observeAuthStateUseCase_emitsUnauthenticated_whenUserIsNull" classname="org.change360.app.domain.usecase.UseCasesTest" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
